@@ -14,18 +14,18 @@
     }
   ],
   "require": {
-    "composer/installers": "2.2.0",
+    "composer/installers": "2.3.0",
     "drupal-tome/tome_drush": "dev-master",
-    "drupal/config_pages": "^2.10.0",
-    "drupal/core-composer-scaffold": "9.4.8",
-    "drupal/core-project-message": "9.4.8",
-    "drupal/core-recommended": "9.4.8",
-    "drupal/druxt": "1.1.1",
-    "drupal/tome": "1.7.0",
-    "drush/drush": "11.3.2"
+    "drupal/config_pages": "^2.17.0",
+    "drupal/core-composer-scaffold": "9.5.11",
+    "drupal/core-project-message": "9.5.11",
+    "drupal/core-recommended": "9.5.11",
+    "drupal/druxt": "1.2.0",
+    "drupal/tome": "1.13.0",
+    "drush/drush": "11.6.0"
   },
   "require-dev": {
-    "drupal/core-dev": "9.4.8"
+    "drupal/core-dev": "9.5.11"
   },
   "conflict": {
     "drupal/drupal": "*"
